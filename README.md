@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager App - MERN
 
 A complete MERN stack Task Manager built for the internship assessment.
@@ -124,3 +125,6 @@ Authorization: Bearer <JWT>
 ## Deployment
 
 The assessment mentions optional deployment using Vercel for the frontend and Render for the backend. Set the production environment variables on the respective platforms before deploying.
+=======
+# mern-task-assessment
+>>>>>>> b0393fb1e93e3a01a4dfaa8e78a599e1a4cecfd5
